@@ -1,0 +1,13 @@
+C:\Users\st325l03\Documents\ne nn\pract19\bin\Debug\pract19.exe.config
+C:\Users\st325l03\Documents\ne nn\pract19\bin\Debug\pract19.exe
+C:\Users\st325l03\Documents\ne nn\pract19\bin\Debug\pract19.pdb
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.csproj.AssemblyReference.cache
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.Form1.resources
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.Properties.Resources.resources
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.csproj.GenerateResource.cache
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.csproj.CoreCompileInputs.cache
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.exe
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.pdb
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.Form2Reg.resources
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.Form3.resources
+C:\Users\st325l03\Documents\ne nn\pract19\obj\Debug\pract19.Form4.resources
